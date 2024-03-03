@@ -1,0 +1,22 @@
+.hj{
+   
+    height:50vh;
+   width:100% ;
+}    
+.lj{
+    display: flex;
+    align-items: center;
+}
+.lol{
+    
+    height:15%;
+    width:10%;
+    border-radius: 50%;
+    margin-right: 5%;
+}
+.kk{
+   
+    text-align: center;
+    font-size: 1.25rem;
+  margin-left: 50%;
+}

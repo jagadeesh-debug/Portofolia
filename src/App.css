@@ -1,0 +1,18 @@
+.f{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+ animation: none;
+}
+App{
+  background-image: url(l.jpg);
+}
+.d{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.g{
+  height: 70vh;
+}
