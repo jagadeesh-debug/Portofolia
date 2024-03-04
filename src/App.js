@@ -15,7 +15,7 @@ function App() {
     <div style={{height:'100vh'}} >
     <div className='f'>
     <h1 style={{ color: 'grey', textAlign: 'center' }}>JAGADEESH</h1>
-    <img className='d'src={Image} alt='' style={{ height: '10%', width: '10%',borderRadius:'100%',}} />
+    <img className='d'src={Image} alt='' style={{ height: '10vw', width: '10vw',borderRadius:'100%',}} />
     <h1 style={{
       color: 'black',
       textAlign: 'center',
